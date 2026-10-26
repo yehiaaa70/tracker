@@ -1,0 +1,233 @@
+[
+    {
+        "date": "2026-01-07",
+        "localName": "عيد الميلاد المجيد",
+        "name": "Christmas Day (Orthodox)",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-01-29",
+        "localName": "عيد الثورة 25 يناير",
+        "name": "Revolution Day 2011 \/ National Police Day",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-03-20",
+        "localName": "عيد الفطر المبارك",
+        "name": "Eid al-Fitr",
+        "countryCode": "EG",
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-03-21",
+        "localName": "عيد الفطر المبارك",
+        "name": "Eid al-Fitr",
+        "countryCode": "EG",
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-03-22",
+        "localName": "عيد الفطر المبارك",
+        "name": "Eid al-Fitr",
+        "countryCode": "EG",
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-04-13",
+        "localName": "Sham El-Nessim",
+        "name": "Easter Monday",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-04-25",
+        "localName": "عيد تحرير سيناء",
+        "name": "Sinai Liberation Day",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-07",
+        "localName": "عيد العمال",
+        "name": "Labour Day",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-26",
+        "localName": "وقفة عرفات",
+        "name": "Arafat Day",
+        "countryCode": "EG",
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-27",
+        "localName": "Eid Al-Adha",
+        "name": "Eid Al-Adha",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-28",
+        "localName": "Eid Al-Adha",
+        "name": "Eid Al-Adha",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-29",
+        "localName": "Eid Al-Adha",
+        "name": "Eid Al-Adha",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-30",
+        "localName": "Eid Al-Adha",
+        "name": "Eid Al-Adha",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-05-31",
+        "localName": "Eid Al-Adha",
+        "name": "Eid Al-Adha",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-06-18",
+        "localName": "Islamic New Year",
+        "name": "Islamic New Year",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-07-02",
+        "localName": "ثورة 30 يونيو",
+        "name": "June 30 Revolution",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-07-23",
+        "localName": "عيد ثورة 23 يوليو",
+        "name": "Revolution Day",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-08-26",
+        "localName": "Prophet Muhammad's Birthday",
+        "name": "Prophet Muhammad's Birthday",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2026-10-06",
+        "localName": "عيد القوات المسلحة",
+        "name": "Armed Forces Day",
+        "countryCode": "EG",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]
