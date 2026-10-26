@@ -1,0 +1,40 @@
+name: Run Tracker
+
+on:
+  schedule:
+    # يعمل كل 5 دقائق من 7 صباحاً إلى 11 مساءً (بتوقيت UTC+3)
+    - cron: '*/5 4-20 * * *'
+  # إمكانية التشغيل اليدوي من تبويب Actions
+  workflow_dispatch:
+
+concurrency:
+  group: tracker-run
+  cancel-in-progress: false
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: curl, json, mbstring, dom, libxml
+
+      - name: Run Tracker Script
+        run: php tracker.php
+
+      # حفظ التحديثات في state.json و cookie.txt إذا تغيرت
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json cookie.txt 2>/dev/null || true
+          if git status --porcelain | grep -E "state.json|cookie.txt"; then
+            git commit -m "chore: update tracker state and cookies [skip ci]"
+            git push
+          fi
